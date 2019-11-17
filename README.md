@@ -1,3 +1,4 @@
 # open-souce-religion
 Open Source Religion
-Hello World
+
+This is the start of the open source religion.
